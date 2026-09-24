@@ -33,5 +33,10 @@ hi, from a confused software engineering student
 - hindi: bollywood-level
 - c++ & solidity: fluent in yelling at compilers
 - korean (한글): 한국어를 네팔어/힌디어보다 좀 더 잘하는 편이에요 ㅋㅋ
-- 
+
+### other hobbies
+- wattpad freak
+- active commentor on tiktok/reddit
+- eating papaya (i love papaya)
+  
 <img width="736" height="414" alt="_" src="https://github.com/user-attachments/assets/839462d1-5468-4906-b8f4-18c0fd69397e" />

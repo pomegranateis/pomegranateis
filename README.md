@@ -17,8 +17,8 @@ hi, from a confused software engineering student
   <a href="https://hub.docker.com/u/pomegranatei">
     <img src="https://cdn.simpleicons.org/docker/E8A0BF" width="35" height="35" alt="Docker Hub"/>
   </a>
-  <a href="02230295.cst@rub.edu.bt">
-    <img src="https://cdn.simpleicons.org/gmail/E8A0BF" width="35" height="35" alt="Email"/>
+  <a href="mailto:02230295.cst@rub.edu.bt">
+  <img src="https://cdn.simpleicons.org/gmail/E8A0BF" width="35" height="35" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/pema-tshering-yangchen-a36b97325">
   <img src="https://img.shields.io/badge/LinkedIn-E8A0BF?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -27,7 +27,7 @@ hi, from a confused software engineering student
 
 ## aside of my ཆོས་ཡོན་ཏན
 
-### languages i speak
+### why i consider myself multi-lingual
 - dzongkha: native
 - english: fluent
 - hindi: bollywood-level

@@ -1,20 +1,16 @@
-<h1 align="center">hiii, i'm pom 🍒</h1>
-<p align="center"><i>pema tshering yangchen · software engineering @ CST, RUB 🇧🇹</i></p>
-
----
-
-### about me heh
-- final-year software eng student, surviving on deadlines + coke
-- breaking things on purpose (ethical hacking, pentesting, forensics, web attacks)
-- building on-chain stuff with solidity & scaffold-eth ⛓️ (jk lol i attended ONE bootcamp tho)
-- 🌐 full-stack (if forced) when i'm not hacking: next.js, react, node
-- at peace 🪷 whenever i'm logged out of GitHub
-
-### stuff i use
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,solidity,js,react,nextjs,nodejs,mongodb,redis,postgres,firebase,supabase" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,vercel,git,github,linux,kali,figma" />
-</p>
-
-<p align="center"><i>currently: stuck in samsara</i></p>
+### Come say hi
+<div>
+  <a href="https://github.com/pomegranateis">
+    <img src="https://cdn.simpleicons.org/github/E8A0BF" width="35" height="35" alt="GitHub"/>
+  </a>
+  <a href="https://www.tiktok.com/@strawberri9">
+    <img src="https://cdn.simpleicons.org/tiktok/E8A0BF" width="35" height="35" alt="TikTok"/>
+  </a>
+  <a href="https://hub.docker.com/u/pomegranatei">
+    <img src="https://cdn.simpleicons.org/docker/E8A0BF" width="35" height="35" alt="Docker Hub"/>
+  </a>
+  <a href="02230295.cst@rub.edu.bt">
+    <img src="https://cdn.simpleicons.org/gmail/E8A0BF" width="35" height="35" alt="Email"/>
+  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-E8A0BF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
